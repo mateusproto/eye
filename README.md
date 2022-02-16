@@ -2,7 +2,7 @@
 Eye
 
 **Description of the project:** 
-Move the mouse to see the eyes following the cursor
+Trigger mouse move event, it will detect current X and Y position of cursor and you will see the eyes following the cursor
 
 **How to Run:** 
 
