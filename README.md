@@ -13,7 +13,7 @@ Move the mouse to see the eyes following the cursor
 - Move the mouse to move the eyes
 
 **Roadmap of future improvements:** 
-Detect when the mouse is between the two eyes and make one eye look at the other
+Detect when the mouse is between the eyes and make one eye look at the other
 
 **License information:** 
 MIT license
